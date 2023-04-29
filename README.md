@@ -1,7 +1,7 @@
 # ArduinoMidiFader
 
 
-* This file is modification part of ArduinoMidiFader from:
+* This is modification of ArduinoMidiFader from:
 www.youtube.com/EvanKale
 
 using a ardumidi library to send midi via serial and convert with hairless program:
